@@ -10,51 +10,50 @@ Here are some main topics from course:
 
 - 🔭 topic4:
 
-“Ordinary Least Squares”;
-
-“Logistic Regression”;
-
-“Regularization”;
-
-“Pros and Cons of Linear Models”;
+  -“Ordinary Least Squares”;
+  
+  -“Logistic Regression”;
+  
+  -“Regularization”;
+  
+  -“Pros and Cons of Linear Models”;
 
 “Validation and learning curves”;
 
 - 🌱 topic5:
 
-“Bagging”;
-
-“Random Forest”;
-
-“Feature Importance”;
+  -“Bagging”;
+  
+  -“Random Forest”;
+  
+  -“Feature Importance”;
 
 - 👯 topic6:
 
-"Feature Engineering and Feature Selection";
+  -"Feature Engineering and Feature Selection";
 
 - 🤔 topic7:
 
-"Unsupervised Learning: Principal Component Analysis and Clustering";
+  -"Unsupervised Learning: Principal Component Analysis and Clustering";
 
 - 💬 topic8:
 
-"Stochastic Gradient Descent";
+  -"Stochastic Gradient Descent";
 
-"Vowpal Wabbit";
+  -"Vowpal Wabbit";
 
 - 📫 topic9:
 
-“Time series analysis in Python”;
+  -“Time series analysis in Python”;
 
-“Predicting future with Facebook Prophet”;
+  -“Predicting future with Facebook Prophet”;
 
 - 😄 topic10:
 
-"fundamental ideas behind gradient boosting";
+  -"fundamental ideas behind gradient boosting";
 
-"major implementations: Xgboost, LightGBM, and CatBoost";
+  -"major implementations: Xgboost, LightGBM, and CatBoost";
 
-- ⚡ Fun fact: ...
 
 
 - - -
