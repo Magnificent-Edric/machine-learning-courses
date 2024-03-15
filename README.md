@@ -18,7 +18,7 @@ Here are some main topics from course:
   
   -“Pros and Cons of Linear Models”;
 
-“Validation and learning curves”;
+  -“Validation and learning curves”;
 
 - 🌱 topic5:
 
