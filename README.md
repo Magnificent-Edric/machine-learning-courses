@@ -8,7 +8,8 @@ https://mlcourse.ai/book/index.html
 
 Here are some main topics from course:
 
-- 🔭 topic4: 
+- 🔭 topic4:
+
 “Ordinary Least Squares”;
 
 “Logistic Regression”;
@@ -20,6 +21,7 @@ Here are some main topics from course:
 “Validation and learning curves”;
 
 - 🌱 topic5:
+
 “Bagging”;
 
 “Random Forest”;
@@ -27,22 +29,27 @@ Here are some main topics from course:
 “Feature Importance”;
 
 - 👯 topic6:
+
 "Feature Engineering and Feature Selection";
 
 - 🤔 topic7:
+
 "Unsupervised Learning: Principal Component Analysis and Clustering";
 
 - 💬 topic8:
+
 "Stochastic Gradient Descent";
 
 "Vowpal Wabbit";
 
 - 📫 topic9:
+
 “Time series analysis in Python”;
 
 “Predicting future with Facebook Prophet”;
 
 - 😄 topic10:
+
 "fundamental ideas behind gradient boosting";
 
 "major implementations: Xgboost, LightGBM, and CatBoost";
